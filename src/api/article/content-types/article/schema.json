@@ -15,6 +15,9 @@
     "title": {
       "type": "string"
     },
+    "authorName": {
+      "type": "string"
+    },
     "description": {
       "type": "text",
       "maxLength": 80
